@@ -8,4 +8,6 @@ Author : Vignesh
 
 3. Last Seen Code
 
-4. Attachments(Image,Audio,Video) Code
+4. Hiding Last Seen Code Added
+
+5. Attachments(Image,Audio,Video) Code
