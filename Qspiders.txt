@@ -11,3 +11,7 @@ Author : Vignesh
 4. Hiding Last Seen Code Added
 
 5. Attachments(Image,Audio,Video) Code
+
+6. Adding Audio Call Feature
+
+7. Adding Video Call Feature
